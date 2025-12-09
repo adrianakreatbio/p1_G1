@@ -1,0 +1,9 @@
+torch
+numpy
+imageio
+fastapi
+uvicorn
+reportlab
+python-multipart
+scipy
+opencv-python
