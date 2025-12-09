@@ -1,0 +1,3 @@
+flutter create g1_app_v4
+flutter pub get
+flutter run -d windows
